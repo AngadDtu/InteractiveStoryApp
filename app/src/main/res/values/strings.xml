@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mars Rover</string>
+    <string name="key_name">name</string>
+</resources>
